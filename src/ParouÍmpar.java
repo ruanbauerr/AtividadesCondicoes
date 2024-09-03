@@ -8,7 +8,7 @@ public class ParouÍmpar {
         numero = sc.nextInt();
         if (numero % 2 == 0) {
             System.out.println(" É par!");
-        }else {
+        } else {
             System.out.println("É impar!");
         }
     }

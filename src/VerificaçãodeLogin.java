@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class VerificaçãodeLogin {
     public static void main(String[] args) {
-     String usuarioCorreto = "admin";
-     String senhaCorreta = "admin";
+        String usuarioCorreto = "admin";
+        String senhaCorreta = "admin";
         Scanner entrada = new Scanner(System.in);
         System.out.print("Usuario: ");
         String usuarioInserido = entrada.nextLine();
